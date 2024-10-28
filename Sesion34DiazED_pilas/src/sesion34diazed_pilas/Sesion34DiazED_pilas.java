@@ -21,6 +21,8 @@ public class Sesion34DiazED_pilas {
         pilaDiaz.push(160);
         
         JOptionPane.showMessageDialog(null, "Datos de pila ordenada es :\n"+pilaDiaz);//mando a llamar a mi pila
+        
+        JOptionPane.showMessageDialog(null, "Autor: Rosa Isela Diaz");
     }
     
 }
